@@ -59,6 +59,7 @@ Clone you repo and modify your Git config
 ---------------------------------------------
 
 clone your repo
+
 	git clone git@github.com:iamlamnguyen/dof.git dof
 
 cd dof and modify git config
@@ -70,9 +71,9 @@ cd dof and modify git config
 	$ git config user.email "iamlamnguyen@gmail.com" 
 
 or you can have global git config
+
 	$ git config --global user.name "iamlamnguyen"
 	$ git config --global user.email "iamlamnguyen@gmail.com"
-
 
 then use normal flow to push your code
 
